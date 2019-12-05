@@ -1,5 +1,6 @@
 # CATCH-U-DNA-CONSORTIUM
 
+Data Management Plan (DMP) for the proyect “Capturing non-Amplified Tumor Circulating DNA with Ultrasound Hydrodynamics” project (Contract No 737212) in the framework of the H2020-FETOPEN Program. It is addressed to the members of the CATCH-U-DNA Consortium, and aims to provide a initial version of the protocol to save data and create a database of the different work loads of the project.   
 
 The present database has two purposes  
 
